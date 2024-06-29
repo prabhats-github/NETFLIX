@@ -1,0 +1,10 @@
+.play{
+    height: 200px;
+    width: 100%;
+    border: 2px solid red;
+}
+
+.play img{
+    height: 170px;
+    width: 130px;
+}
